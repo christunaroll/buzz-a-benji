@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## About This Project
-This project is a random photo generator for my friend's beloved shih poo, Benji. This project also inlcudes an about page for him as well! 
+This project is a random photo generator of my friend's beloved shih poo, Benji. This project also inlcudes an about page for him as well! 
 
 
 ### `npm start`
